@@ -54,6 +54,7 @@ You can find most of the custom patches used in this Wine build in [Star Citizen
 
 - [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom/releases)
 - [Kron4ek Wine Builds](https://github.com/Kron4ek/Wine-Builds/releases)
+- [LUG-Wine](https://github.com/starcitizen-lug/lug-wine/releases)
 - [Mactan Wine](https://github.com/mactan-sc/mactan-sc-wine/releases)
 - [Raw-Wine](https://github.com/starcitizen-lug/raw-wine/releases)
 
